@@ -4,17 +4,44 @@ gcloud compute instances create "changemynameorLizzohumpsyou" --machine-type="e2
 You must plan
 you need to choose a human being for your partner
 
+----------------------------------------------------
+
+VPC Peering worksheet
+
+my name:
+my VPC name:
+My VPC Subnet IP Range (for peering): 
+my VPC subnet region (for peering): 
+my project ID: 
+my VM IP address (internal): 
+
+partner's name: 
+partner's IP Range:
+partner's project ID:
+partner's VPC name: 
+partner's VM IP address (internal):
+
+-----------------------------------------------------
+
+VPN worksheet
+
+my name:
+my VPC name:
+My VPC Subnet IP Range (for VPN tunnel): 
+my VPC subnet region (for VPN tunnel): 
+my project ID:
+my elastic/static IP address: 
+my IKE preshared key: 
+my VM IP address (internal): 
 
 
-Peering Region
-Other human being student name:
-My VPC Subnet IP Range:
-Human being other student IP Range:
+partner's name:
+partner's VPC name:
+partner's VPC subnet IP Range (for VPN tunnel):
+partner's VPC subnet IP range: 
+partner's elastic/static IP:
+partner's IKE preshared key: 
+partner's VM IP address (internal):
 
-
-
-
-VPN Region
-Other human being student name:
-My VPC Subnet IP Range:
-Human being other student IP Range:
+routing type = routing based
+for VPN creation, both sides need to press the "create" button simultaneously 
