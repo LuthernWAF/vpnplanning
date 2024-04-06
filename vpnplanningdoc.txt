@@ -1,0 +1,20 @@
+gcloud compute instances create "changemynameorLizzohumpsyou" --machine-type="e2-medium" --image-family="ubuntu-2004-lts" --image-project="ubuntu-os-cloud" 
+
+
+You must plan
+you need to choose a human being for your partner
+
+
+
+Peering Region
+Other human being student name:
+My VPC Subnet IP Range:
+Human being other student IP Range:
+
+
+
+
+VPN Region
+Other human being student name:
+My VPC Subnet IP Range:
+Human being other student IP Range:
